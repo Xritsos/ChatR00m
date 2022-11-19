@@ -1,0 +1,30 @@
+
+menu_font{
+		
+	   color:#ffa31a;
+           font-family:Italic;
+	   font-size:14pt;
+         }
+
+a{
+	   color: #ffad33;
+	   font-family:Arial;
+	   font-size:12pt;
+      }	
+
+a:active{
+	   
+	   text-decoration: underline;
+        }
+
+a:visited{ text-decoration: none;}
+
+a:hover{ 
+         color:blue;
+         text-decortion: underline
+       }	
+
+table{
+    	margin-top: 20px;
+        margin-right:45px;
+     }
